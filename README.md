@@ -1,5 +1,3 @@
-### Olá! Eu sou o Savio Rony 👋
-
 - 💼 Hoje trabalho com back-end
 - 🌱 Estudando ecossistema Spring
 
